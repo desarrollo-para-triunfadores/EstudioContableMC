@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="1200ms" data-wow-delay="300ms">
-                <h2>El Equipo</h2>
-                <p>Este es nuestro grupo humano (Breve Introduccion del equipo de profesionales con y sus aptitudes profesionales )</p>
+                <h2>Nuestro Equipo</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam</p>
             </div>
         </div>
         <div class="team-members">
@@ -15,8 +15,14 @@
                         </div>
                         <div class="member-info">
                             <h3>Marcia Cussatti</h3>
-                            <h4>Contadora Publica Nacional</h4>
-                            <p>Universidad Nacional del Nordeste</p>
+                            <h4>CEO &amp; Founder</h4>
+                            <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <div class="social-icons">
+                            <ul>
+                                <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -26,9 +32,14 @@
                             <img class="img-responsive" src="images/team/2.jpg" alt="">
                         </div>
                         <div class="member-info">
-                            <h3>Ricardo Alvarez</h3>
-                            <h4>Contador Publico</h4>
+                            <h3>Lawrence Lane</h3>
+                            <h4>UI/UX Designer</h4>
                             <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <div class="social-icons">
+                            <ul>
+                                <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -38,15 +49,35 @@
                             <img class="img-responsive" src="images/team/3.jpg" alt="">
                         </div>
                         <div class="member-info">
-                            <h3>Ramiro Quintana</h3>
-                            <h4>Abogado</h4>
-                            <p>Universidad Nacional de La Plata, Especialista en Derecho de Sociedades</p>
+                            <h3>Lois Clark</h3>
+                            <h4>Developer</h4>
+                            <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <div class="social-icons">
+                            <ul>
+                                <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="1100ms">
+                        <div class="member-image">
+                            <img class="img-responsive" src="images/team/4.jpg" alt="">
+                        </div>
+                        <div class="member-info">
+                            <h3>Marian Dixon</h3>
+                            <h4>Support Manager</h4>
+                            <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <div class="social-icons">
+                            <ul>
+                                <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
-    </div>
     </div>
 </section><!--/#team-->

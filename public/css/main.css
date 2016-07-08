@@ -493,8 +493,31 @@ section {
 }
 
 .team-members {
-  margin-bottom: 25px;
+  margin-bottom: 50px;
+
+
+  /*
+  justify-content:center
+  align-items: center;
+  */
 }
+
+/* centered columns styles  AGREGADO POR JUAMPY*/
+.row-centered {
+  text-align:center;
+}
+.col-centered {
+  display:inline-block;
+  float:none;
+  /* reset the text-align */
+  text-align:left;
+  /* inline-block space fix */
+  margin-right:50px;
+}
+
+
+
+
 
 .social-icons {
   margin-top:30px;
