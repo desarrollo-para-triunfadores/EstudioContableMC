@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <h2>Contactenos</h2>
-                    <p>Envie un email en la casilla a continuacion y nos pondremos en contacto con usted (dejenos su email, telefono o ambos si lo prefiere)</p>
+                    <p>Envie un email en la casilla a continuacion con su consulta</p>
                 </div>
             </div>
             <div class="contact-form wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">

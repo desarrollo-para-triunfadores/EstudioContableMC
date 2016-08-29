@@ -41,13 +41,11 @@
 
 <!-- portfolio no va -->
 
-@include('front.features')
+<!-- features no va -->
 
 @include('front.websutiles')
 
 @include('front.map')
-
-<div id="map"></div>
 
 @include('front.contacto')
 
