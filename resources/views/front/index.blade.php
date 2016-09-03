@@ -35,23 +35,20 @@
 
 @include('front.cabecera')
 
-@include('front.aboutus')
+
 
 @include('front.servicios')
 
 
-<!-- team no va -->
-@include('front.team')
-
-<!-- portfolio no va -->
-
+@include('front.aboutus')
 <!-- features no va -->
-
-@include('front.contacto')
-
 @include('front.websutiles')
 
+@include('front.contacto')
 @include('front.mapa')
+
+
+
 
 @include('front.pie')
 

@@ -5,10 +5,6 @@
                 <h2>Sitios Web de utilidad</h2>
             </div>
         </div>
-
-
-
-
         <div class="text-center our-services">
             <div class="row">
                 <!--ANSES-->
@@ -45,9 +41,7 @@
                     <div class="entry-header">
                         <h3><a href="https://www.afip.gob.ar/genericos/imprentas/facturas.asp">Constancia de Comprobantes emitidos</a></h3>
                     </div>
-                    <div class="entry-content">
-                        <p> </p>
-                    </div>
+
                 </div>
                 <!--Constancia Inscripcion AFIP-->
                 <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
@@ -58,9 +52,7 @@
                     <div class="entry-header">
                         <h3><a href="https://seti.afip.gob.ar/padron-puc-constancia-internet/ConsultaConstanciaAction.do">Constancia de Inscripcion en AFIP</a></h3>
                     </div>
-                    <div class="entry-content">
-                        <p> </p>
-                    </div>
+
                 </div>
                 <!--ATP Chaco-->
                 <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
@@ -70,21 +62,15 @@
                     <div class="entry-header">
                         <h3><a href="http://atp.chaco.gob.ar/">Administración Tributaria Provincial</a></h3>
                     </div>
-                    <div class="entry-content">
-                        <p> </p>
-                    </div>
+
                 </div>
                 <!--RENATEA-->
                 <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
                     <div class="post-thumb">
                         <a href="http://www.renatea.gob.ar/"><img class="img-responsive" src="images/blog/renatea.jpg" alt=""></a>
-
                     </div>
                     <div class="entry-header">
                         <h3><a href="http://www.renatea.gob.ar/">Registro Nac. de Trabajadores y Empleados Agrarios</a></h3>
-                    </div>
-                    <div class="entry-content">
-                        <p></p>
                     </div>
                 </div>
             </div>

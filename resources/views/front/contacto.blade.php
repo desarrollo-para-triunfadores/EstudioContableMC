@@ -1,5 +1,4 @@
 <section id="contacto">
-    <div id="google-map" class="wow fadeIn" data-latitude="52.365629" data-longitude="4.871331" data-wow-duration="1000ms" data-wow-delay="400ms"></div>
     <div id="contact-us" class="parallax">
         <div class="container">
             <div class="row">
@@ -19,7 +18,7 @@
                             {!! Form::open(['route' => 'mail.store', 'method' => 'post']) !!}
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        {!! Form::text('name', null ,array('class' => 'form-control', 'placeholder' => 'Su nombre..')) !!}
+                                        {!! Form::text('name', null ,array('class' => 'form-control', 'placeholder' => 'su nombre')) !!}
                                         <!--
                                         <input type="text" name="nombre" class="form-control" placeholder="Nombre" required="required">
                                         -->
@@ -34,7 +33,7 @@
                                     </div>
                                 </div>
                             <div class="form-group">
-                                {!! Form::textarea('mensaje', null, array('class'=>'form-control', 'rows' => '3', 'placeholder'=>'Ingresa tu mensaje..')) !!}
+                                {!! Form::textarea('mensaje', null, array('class'=>'form-control', 'rows' => '4', 'placeholder'=>'ingresa tu mensaje')) !!}
                                         <!--
                                 <textarea name="message" id="message" class="form-control" rows="4" placeholder="Ingresa tu mensaje.." required="required"></textarea>
                                         -->
