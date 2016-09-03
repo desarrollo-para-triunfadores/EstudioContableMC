@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Para intentar solucionar TokenMissmatch al enviar mail -->
+    <input type="hidden" name="_token" value="{{ csrf_token() }}">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
@@ -32,22 +35,23 @@
 
 @include('front.cabecera')
 
+@include('front.aboutus')
 
 @include('front.servicios')
 
-@include('front.aboutus')
 
 <!-- team no va -->
+@include('front.team')
 
 <!-- portfolio no va -->
 
 <!-- features no va -->
 
+@include('front.contacto')
+
 @include('front.websutiles')
 
-@include('front.map')
-
-@include('front.contacto')
+@include('front.mapa')
 
 @include('front.pie')
 

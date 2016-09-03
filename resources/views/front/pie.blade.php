@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="center" align="center">
-                    <p>JP Cáceres - Horacio Kuszniruk - 2016 Oxygen Theme</p>
+                    <p>JP Cáceres - Horacio Kuszniruk - 2016 www.EstudioMarciaCussatti.com - Oxygen Theme</p>
                 </div>
 
             </div>

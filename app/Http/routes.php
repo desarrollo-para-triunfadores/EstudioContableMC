@@ -14,3 +14,5 @@
 Route::get('/', function () {
     return view('front.index');
 });
+
+Route::resource('mail','MailController');

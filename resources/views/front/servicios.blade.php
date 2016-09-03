@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="text-center col-sm-8 col-sm-offset-2">
                     <h2>Nuestros Servicios</h2>
-                    <p>Mas de 20 años de experiencia brindando los siguientes servicios, entre otros</p>
+                    <p>Mas de dos decadas en el rubro nos han preparado para ofrecer los siguientes servicios eficientemente.</p>
                 </div>
             </div>
         </div>
@@ -54,8 +54,8 @@
                         <i class="fa fa-book"></i>
                     </div>
                     <div class="service-info">
-                        <h3>Auditorias de Estados Contables</h3>
-                        <p>Damos confiabilidad y acompañamos sus estados contables auditandolos con informes que hablen sobre la veracidad de la información alli contenida.</p>
+                        <h3>Auditorías de Estados Contables</h3>
+                        <p>Damos confiabilidad y acompañamos sus estados contables auditandolos con informes que hablen sobre la veracidad de la información allí contenida.</p>
                     </div>
                 </div>
                 <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="850ms">

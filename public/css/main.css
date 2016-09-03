@@ -315,8 +315,14 @@ section {
 ********About CSS*******
 **************************/
 #about-us {
-  background-image: url(../images/about-bg.jpg);
-  padding: 60px 0;
+  background-image: url(../images/contadora.jpg);
+  padding: 70px 0;
+  background-attachment: fixed;
+  background-size: 100% auto;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+
+
 }
 
 #about-us h2 {

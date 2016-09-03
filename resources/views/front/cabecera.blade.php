@@ -5,21 +5,21 @@
                 <div class="caption">
                     <h1 class="animated fadeInLeftBig">Estudio Contable <span>Marcia Cussatti </span> & Asociados</h1>
                     <p class="animated fadeInRightBig"></p>
-                    <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Vea nuestros servicios</a>
-                </div>
-            </div>
-            <div class="item" style="background-image: url(images/slider/2.png)">
-                <div class="caption">
-                    <h1 class="animated fadeInLeftBig">Estudio Contable <span>Marcia Cussatti </span> & Asociados</h1>
-                    <p class="animated fadeInRightBig"> </p>
-                    <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Servicios</a>
+                    <a data-scroll class="btn btn-start animated fadeInUpBig" href="#servicios">Vea nuestros servicios</a>
                 </div>
             </div>
             <div class="item" style="background-image: url(images/slider/1.jpg)">
                 <div class="caption">
                     <h1 class="animated fadeInLeftBig">Estudio Contable <span>Marcia Cussatti </span> & Asociados</h1>
                     <p class="animated fadeInDownBig"> </p>
-                    <a data-scroll class="btn btn-start animated fadeInDownBig" href="#services">Contacto</a>
+                    <a data-scroll class="btn btn-start animated fadeInDownBig" href="#contacto">Contacto</a>
+                </div>
+            </div>
+            <div class="item" style="background-image: url(images/slider/2.png)">
+                <div class="caption">
+                    <h1 class="animated fadeInLeftBig">Estudio Contable <span>Marcia Cussatti </span> & Asociados</h1>
+                    <p class="animated fadeInRightBig"> </p>
+                    <a data-scroll class="btn btn-start animated fadeInUpBig" href="#servicios">Servicios</a>
                 </div>
             </div>
         </div>
@@ -48,9 +48,10 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li class="scroll active"><a href="#home">Inicio</a></li>
                     <li class="scroll"><a href="#servicios">Servicios</a></li>
-                    <li class="scroll"><a href="#about-us">Quienes Somos</a></li>
+                    <li class="scroll"><a href="#about-us">Marcia Cussatti</a></li>
                     <li class="scroll"><a href="#websutiles">Sitios Utiles</a></li>
-                    <li class="scroll"><a href="#contact">Contacto</a></li>
+                    <li class="scroll"><a href="#contacto">Contacto</a></li>
+                    <li class="scroll"><a href="#google-maps">Ubicacion</a></li>
                 </ul>
             </div>
         </div>

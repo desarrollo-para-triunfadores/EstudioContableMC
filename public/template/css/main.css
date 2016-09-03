@@ -489,10 +489,13 @@ section {
 *********Team CSS*********
 **************************/
 #team {
+  align-content: center;
   padding-top: 0;
 }
 
 .team-members {
+  text-align: center;
+  align-content: center;
   margin-bottom: 25px;
 }
 
