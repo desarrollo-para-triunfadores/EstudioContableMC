@@ -13,7 +13,7 @@
                         <a href="http://servicioswww.anses.gov.ar/ConstanciadeCuil2/Inicio.aspx"><img class="img-responsive" src="images/blog/anses.png" alt=""></a>
                     </div>
                     <div class="entry-header">
-                        <h3><a href="http://servicioswww.anses.gov.ar/ConstanciadeCuil2/Inicio.aspx">Constancia de CUIL - ANSES</a></h3>
+                        <h3><a href="http://servicioswww.anses.gov.ar/ConstanciadeCuil2/Inicio.aspx">Constancia de CUIL</a></h3>
                     </div>
                     <div class="entry-content">
                         <p> </p>

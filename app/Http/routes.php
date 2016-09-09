@@ -11,8 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('front.index');
-});
+Route::resource('/','frontHomeController');
 
 Route::resource('mail','MailController');
