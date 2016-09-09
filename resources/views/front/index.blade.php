@@ -28,6 +28,11 @@
 
 <body>
 
+<!--Google Analytics-->
+@include('analyticstracking')
+<!--Fin Google Analytics-->
+
+
 <!--.preloader-->
 <div class="preloader"> <i class="fa fa-circle-o-notch fa-spin"></i></div>
 <!--/.preloader-->
