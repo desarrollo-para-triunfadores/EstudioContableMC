@@ -67,7 +67,7 @@
                 <!--RENATEA-->
                 <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
                     <div class="post-thumb">
-                        <a href="http://www.renatea.gob.ar/"><img class="img-responsive" src="images/blog/renatea.jpg" alt=""></a>
+                        <a href="http://www.renatea.gob.ar/"><img class="img-responsive" src="images/blog/RENATEA.jpg" alt=""></a>
                     </div>
                     <div class="entry-header">
                         <h3><a href="http://www.renatea.gob.ar/">Registro Nac. de Trabajadores y Empleados Agrarios</a></h3>

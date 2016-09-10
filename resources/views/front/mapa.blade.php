@@ -1,5 +1,4 @@
 <!--Mapa de Google-->
-
 <style>
         .google-maps {
                 position: relative;
@@ -19,11 +18,9 @@
 
 </style>
 
-
+<section id="team">
 
 <div class="google-maps">
        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zKZOQhecH1Us.k3FbMRNUYsp0" width="100" height="480"></iframe>
 </div>
-
-
-
+</section>
