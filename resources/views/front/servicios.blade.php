@@ -16,9 +16,8 @@
                       <i class="fa fa-book"></i>
                   </div>
                   <div class="service-info">
-                      <h3>Auditorías de estados contables</h3>
-                      <p align="center">Damos confiabilidad y acompañamos sus estados contables auditandolos con informes que hablen sobre la veracidad de la información allí contenida.</p>
-                      <br>
+                      <h3>Auditorías de estados</h3>
+                      <p align="center">Damos confiabilidad y acompañamos sus estados contables auditándolos con informes que hablen sobre la veracidad de la información que allí se encuentra contenida.</p>
                   </div>
                 <br>
               </div>
@@ -56,7 +55,7 @@
                         <i class="fa fa-bar-chart"></i>
                     </div>
                     <div class="service-info">
-                        <h3>TErcerización  de la administración y de gestión</h3>
+                        <h3>Tercerización  de la administración y de gestión</h3>
                         <p align="center">Para que como empresario pueda concentrarse en el negocio, ponemos a disposición la organización del circuito administrativo que le permita cumplir con los requerimientos fiscales y obtener la información necesaria para evaluar la gestión de su negocio y mejorar el proceso de toma de decisiones.</p>
                     </div>
                 </div>
