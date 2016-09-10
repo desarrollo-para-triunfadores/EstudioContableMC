@@ -47,7 +47,7 @@
                     <li class="scroll active"><a href="#home">Inicio</a></li>
                     <li class="scroll"><a href="#servicios">Servicios</a></li>
                     <li class="scroll"><a href="#about-us">Marcia Cussatti</a></li>
-                    <li class="scroll"><a href="#websutiles">Sitios Utiles</a></li>
+                    <li class="scroll"><a href="#websutiles">Sitios útiles</a></li>
                     <li class="scroll"><a href="#contact">Contacto</a></li>
                     <li class="scroll"><a href="#team">Ubicación</a></li>
                 </ul>
