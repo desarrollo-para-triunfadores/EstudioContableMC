@@ -40,20 +40,15 @@
 
 @include('front.cabecera')
 
-
-
 @include('front.servicios')
-
 
 @include('front.aboutus')
 <!-- features no va -->
 @include('front.websutiles')
 
 @include('front.contacto')
+
 @include('front.mapa')
-
-
-
 
 @include('front.pie')
 

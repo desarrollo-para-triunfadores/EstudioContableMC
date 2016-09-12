@@ -62,7 +62,7 @@
               <ul class="address">
                   <li><i class="fa fa-map-marker"></i> <span> Direccion:</span>  Corrientes 2101 - Resistencia (Chaco, Argentina) </li>
                   <li><i class="fa fa-whatsapp"></i> <span> Teléfono:</span> 364-511324  </li>
-                  <li><i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:m.cussatti@hotmail.com"> direccion de correo</a></li>
+                  <li><i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:m.cussatti@hotmail.com"> m.cussatti@hotmail.com </a></li>
                   <li><i class="fa fa-globe"></i> <span> Web:</span> <a href="#">www.EstudioMarciaCussatti.com</a></li>
               </ul>
             </div>
